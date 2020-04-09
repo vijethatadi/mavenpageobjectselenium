@@ -1,0 +1,26 @@
+ <suite name="Suite1" verbose="1" >
+  
+  <listeners>
+  	<listener class-name="com.selenium.base.BaseClass"/>
+  	</listeners>
+  <test name="Regression1"   >
+  <packages>
+  <package name="com.selenium.tests"/>
+  </packages>
+  
+  
+  <!-- 
+  <classes>
+  <class name="com.selenium.tests">
+   
+    <methods>
+      <include name="login_003" />
+   </methods>
+    
+   </class>
+   </classes>
+   -->
+   
+   
+ </test>
+</suite>

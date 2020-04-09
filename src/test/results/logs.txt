@@ -1,0 +1,4 @@
+2020-03-30 11:02:53 INFO  ************* i am listener on starting the suite the suite
+2020-03-30 11:03:08 INFO  ************* i am listener on starting the testcaselogin001
+2020-03-30 11:03:09 INFO  ************* i am listener on success of the testcase login001
+2020-03-30 11:03:10 INFO  ************* i am listener after finish the suite
