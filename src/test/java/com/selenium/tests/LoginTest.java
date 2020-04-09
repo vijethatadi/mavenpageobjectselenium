@@ -15,5 +15,12 @@ public class LoginTest extends BaseClass{
 		loginpage.setPassWord("manager");
 		loginpage.clickLoginButton();
 	}
-
+	@Test
+	public static void login002()
+	{
+		LoginPage loginpage= new LoginPage(driver);
+		loginpage.setUserName("admin1");
+		loginpage.setPassWord("manager");
+		loginpage.clickLoginButton();
+	}
 }
